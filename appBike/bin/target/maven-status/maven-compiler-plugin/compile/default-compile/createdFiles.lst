@@ -1,0 +1,8 @@
+model\appBike\Urbana.class
+model\appBike\Cliente.class
+model\appBike\Road.class
+model\appBike\Gravel.class
+model\appBike\Mtb.class
+model\appBike\Aluguel.class
+br\edu\infnet\appBike\AppBikeApplication.class
+model\appBike\Bike.class

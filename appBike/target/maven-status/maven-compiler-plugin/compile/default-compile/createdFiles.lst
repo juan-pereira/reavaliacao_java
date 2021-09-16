@@ -1,0 +1,12 @@
+br\edu\infnet\appBike\model\negocio\Usuario.class
+br\edu\infnet\appBike\model\negocio\Road.class
+br\edu\infnet\appBike\model\negocio\Mtb.class
+br\edu\infnet\appBike\model\negocio\Bike.class
+br\edu\infnet\appBike\AppBikeApplication.class
+br\edu\infnet\appBike\model\testes\UsuarioTeste.class
+br\edu\infnet\appBike\model\service\UsuarioService.class
+br\edu\infnet\appBike\controller\UsuarioController.class
+br\edu\infnet\appBike\model\negocio\Urbana.class
+br\edu\infnet\appBike\controller\AppController.class
+br\edu\infnet\appBike\model\repository\IUsuarioRepository.class
+br\edu\infnet\appBike\model\negocio\Aluguel.class
